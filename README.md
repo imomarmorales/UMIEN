@@ -30,7 +30,7 @@ This repository contains the code for the UMIEN, designed for underwater image e
 To train the model:
 
 ```bash
-python train_revised.py
+python trainR.py
 ```
 
 Ensure you have a GPU available or it will fallback to CPU automatically.
